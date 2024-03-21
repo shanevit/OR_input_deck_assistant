@@ -1,0 +1,25 @@
+/PROP/TYPE8/3
+Spring property
+2 Mass 17.3e-9
+4 I 1e-3
+5 Skew_ID
+6 sens_ID
+7 Isflag
+8 Ifail
+9 Ifail2
+10 Iequil
+2 K1 15.7
+4 C1
+6 A1
+8 B1
+10 D1
+
+/SOMETHING/TYPE/ID
+input sample
+2 Comment 157.3
+4 I VALUE
+2 K1 1
+4 C1 2
+6 A1 3
+8 B1 4
+10 D1 5
